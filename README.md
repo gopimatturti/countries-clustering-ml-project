@@ -47,3 +47,5 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ### Dendrogram
 ![Dendrogram](Dendrogram.png)
+
+## This project demonstrates how machine learning clustering techniques can support data-driven decision making for global development programs.
