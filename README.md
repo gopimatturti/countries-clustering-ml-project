@@ -36,6 +36,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Visualizations
 
+## Visualizations
+
 ### Elbow Method
 ![Elbow Method](./elbow_method.png)
 
