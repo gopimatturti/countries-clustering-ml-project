@@ -1,38 +1,30 @@
 # Countries Clustering using Machine Learning
 
-## Project Overview
-This project analyzes socio-economic indicators of countries to identify those that require the most financial aid. Machine learning clustering techniques were used to group countries based on economic and health indicators.
-
 ## Problem Statement
-GIVE Foundation is an NGO that provides financial aid to underdeveloped countries. After receiving $10 million in funding, the CEO must decide which countries need aid the most. This project uses clustering algorithms to identify the countries that require financial assistance.
+HELP International NGO wants to identify countries that require financial aid.
 
 ## Dataset
-The dataset contains information for **167 countries** with the following variables:
-
-- GDP per capita (gdpp)
+167 countries with socio-economic indicators:
+- GDP per capita
 - Income
 - Child mortality
 - Life expectancy
 - Inflation
-- Exports and imports
 
-## Techniques Used
-- Exploratory Data Analysis (EDA)
-- Feature Scaling using StandardScaler
-- K-Means Clustering
-- Hierarchical Clustering
-- Elbow Method for selecting optimal clusters
+## Methodology
+1. Exploratory Data Analysis
+2. Feature Scaling
+3. Elbow Method
+4. K-Means Clustering
+5. Hierarchical Clustering
 
 ## Results
-Countries were categorized into three clusters:
+Countries were grouped into:
+- Developed
+- Developing
+- Underdeveloped
 
-- Developed countries
-- Developing countries
-- Underdeveloped countries
-
-Cluster 2 contained countries with very low income and high child mortality rates.
-
-## Countries Recommended for Financial Aid
+## Countries Recommended for Aid
 - Burundi
 - Liberia
 - Congo (Democratic Republic)
@@ -40,15 +32,4 @@ Cluster 2 contained countries with very low income and high child mortality rate
 - Sierra Leone
 
 ## Tools Used
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
-
-## Visualizations
-
-### Elbow Method
-![Elbow Method](elbow_method.png)
-
-### Cluster Visualization
-![Clusters](cluster_scatter.png)
-
-### Hierarchical Clustering
-![Dendrogram](dendrogram.png)
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
