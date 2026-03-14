@@ -68,16 +68,19 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## Visualizations
 
 ### Elbow Method
-![Elbow](Elbow%20Method.png)
+![Elbow](elbow_method.png)
 
 ### GDP vs Child Mortality
-![GDP vs Child Mortality](GDP%20and%20Child%20Mortality.png)
+![GDP vs Child Mortality](gdp_child_mortality.png)
 
 ### Income vs GDP
-![Income vs GDP](Income%20and%20GDP.png)
+![Income vs GDP](income_gdp.png)
+
+### Income vs Child Mortality
+![Income vs Child Mortality](income_child_mortality.png)
 
 ### Dendrogram
-![Dendrogram](Dendrogram.png)
+![Dendrogram](dendrogram.png)
 
 ## Business Impact
 
