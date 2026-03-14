@@ -83,9 +83,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ![Dendrogram](dendrogram.png)
 
 ## Business Impact
-
-This project demonstrates how machine learning can support data-driven decision making for global development organizations.
-
-By identifying countries with poor socio-economic indicators, NGOs can allocate financial resources more effectively and prioritize countries that require urgent assistance.
+This project helps NGOs allocate financial aid more effectively
+by identifying countries with poor socio-economic indicators.
 
 ## This project demonstrates how machine learning clustering techniques can support data-driven decision making for global development programs.
