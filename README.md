@@ -33,16 +33,3 @@ Countries were grouped into:
 
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-## Visualizations
-
-## Visualizations
-
-### Elbow Method
-![Elbow Method](./elbow_method.png)
-
-### Cluster Visualization
-![Cluster Plot](./cluster_scatter.png)
-
-### Hierarchical Clustering
-![Dendrogram](./dendrogram.png)
