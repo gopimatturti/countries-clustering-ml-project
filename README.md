@@ -1,4 +1,4 @@
-# Countries Clustering using Machine Learning
+⭐ Machine Learning Project | K-Means & Hierarchical Clustering
 
 ## Problem Statement
 HELP International NGO wants to identify countries that require financial aid.
