@@ -19,10 +19,10 @@ HELP International NGO wants to identify countries that require financial aid.
 5. Hierarchical Clustering
 
 ## Results
-Countries were grouped into:
-- Developed
-- Developing
-- Underdeveloped
+Countries were grouped into three clusters:
+• Developed countries
+• Developing countries
+• Underdeveloped countries
 
 ## Countries Recommended for Aid
 - Burundi
@@ -33,3 +33,17 @@ Countries were grouped into:
 
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+## Visualizations
+
+### Elbow Method
+![Elbow](Elbow%20Method.png)
+
+### GDP vs Child Mortality
+![GDP vs Child Mortality](GDP%20and%20Child%20Mortality.png)
+
+### Income vs GDP
+![Income vs GDP](Income%20and%20GDP.png)
+
+### Dendrogram
+![Dendrogram](Dendrogram.png)
