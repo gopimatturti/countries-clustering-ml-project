@@ -41,3 +41,14 @@ Cluster 2 contained countries with very low income and high child mortality rate
 
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+
+## Visualizations
+
+### Elbow Method
+![Elbow Method](elbow_method.png)
+
+### Cluster Visualization
+![Clusters](cluster_scatter.png)
+
+### Hierarchical Clustering
+![Dendrogram](dendrogram.png)
